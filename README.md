@@ -15,5 +15,5 @@ The PostgreSQL database and load balancer connected and communicated with severa
 Deployment was executed through 17 AWS EC2 micro-instances, consisting of 16 servers and 1 database instance, and 1 AWS load balancer.
 
 ### Engineering Team
-This service and design was built by Emma Knor.
+This service was built and designed by Emma Knor.
 See Product Overview and Product Reviews to see engineering work by [Jim Burch](https://github.com/async-anonymous/product-overview-db) and [Dennis Arnold](https://github.com/async-anonymous/reviews-db/tree/fcdfe3d2dc492f59f982acae73a3b99bf4ed1a43).
